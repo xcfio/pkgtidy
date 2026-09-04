@@ -62,7 +62,7 @@ importers:
         version: 1.80.0(oxlint-tsgolint@7.0.2001)
       oxlint-plugin-eslint:
         specifier: ^1.79.0
-        version: 1.79.0
+        version: 1.80.0
       oxlint-tsgolint:
         specifier: ^7.0.2001
         version: 7.0.2001
@@ -1467,8 +1467,8 @@ packages:
     resolution: {integrity: sha512-5xaug6t7GfV3BO5Iv+xHW1rmQkDEQ3BEu3L8g3InsvWO5i8CYGc4tCZ2X985QcwWNycFJam+aOns6Nr2XAThTA==}
     engines: {node: ^20.19.0 || >=22.12.0}
 
-  oxlint-plugin-eslint@1.79.0:
-    resolution: {integrity: sha512-0TOcUYP0Le9de6VnqaDFOo0ZSsiJqQrY6u2FrkTaEaE630Jv5zS8+jTeyMXH+VWGqV++DeCCAKX8k5nx15i/3Q==}
+  oxlint-plugin-eslint@1.80.0:
+    resolution: {integrity: sha512-ElAyNkGRwxc+sMiSn/aJG0Qta7DkPqeLqDENz3iRm5UMgVaISO1Golm0vRo3UM8+DYQhHos2548gjS7lrjHc1w==}
     engines: {node: ^20.19.0 || >=22.12.0}
 
   oxlint-tsgolint@7.0.2001:
@@ -2886,7 +2886,7 @@ snapshots:
       '@oxc-parser/binding-win32-ia32-msvc': 0.147.0
       '@oxc-parser/binding-win32-x64-msvc': 0.147.0
 
-  oxlint-plugin-eslint@1.79.0: {}
+  oxlint-plugin-eslint@1.80.0: {}
 
   oxlint-tsgolint@7.0.2001:
     optionalDependencies:
